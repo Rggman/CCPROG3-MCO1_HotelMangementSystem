@@ -2,7 +2,6 @@ public class Room {
     
     private int number;
     private double price = 1299.00;
-    private boolean isBooked;
 
     public Room(int number) {
         this.number = number;
